@@ -1,4 +1,6 @@
 Attendance Management System
+
+
 Welcome to the Attendance Management System project! This web application is designed to simplify and streamline the process of managing attendance for various events, classes, or meetings. The project is built using HTML, CSS, JavaScript, and PHP.
 
 Features
